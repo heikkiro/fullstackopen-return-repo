@@ -1,7 +1,6 @@
 # Osa 0
 
-Web-sovellusten toiminnan perusteet
-Osan 0 tehtävien vastaukset 
+Web-sovellusten toiminnan perusteet, osan 0 tehtävien vastaukset 
 
 ## Tehtävä 0.4: Uusi muistiinpano
 
